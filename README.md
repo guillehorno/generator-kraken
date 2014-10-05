@@ -1,4 +1,5 @@
 # generator-kraken
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/guillehorno/generator-kraken?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 Generator for scaffolding out Kraken applications.
 
